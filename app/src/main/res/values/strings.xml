@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">0419</string>
+    <string name="button_change">change</string>
+    <string name="txt_Red">Red:??</string>
+    <string name="txt_Green">green:??</string>
+    <string name="txt_Blue">Blue:??</string>
+    <string name="txt_show" />
+</resources>

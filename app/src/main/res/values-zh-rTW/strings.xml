@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">0419</string>
+    <string name="button_change">轉換</string>
+    <string name="txt_Red">紅:??</string>
+    <string name="txt_Green">綠:??</string>
+    <string name="txt_Blue">藍:??</string>
+</resources>
